@@ -1,0 +1,5 @@
+name: ClimbPlugin
+main: climb\ClimbPlugin
+author: https://vk.com/gewinum
+api: 4.0.0-BETA8
+version: 1.0.0
